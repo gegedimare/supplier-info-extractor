@@ -1,0 +1,7 @@
+supplier-info-extractor/
+├── app.py
+├── requirements.txt
+└── utils/
+    ├── extract.py
+    ├── ocr.py
+    └── prompts.py
